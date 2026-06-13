@@ -97,3 +97,5 @@ web/test-results/*
 
 # Serena MCP server config (local only)
 .serena/
+
+.env.dev.example
